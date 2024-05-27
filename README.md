@@ -11,6 +11,7 @@
 ![nico's GitHub stats](https://github-readme-stats.vercel.app/api?username=nico264dev&show_icons=true&theme=dark)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nico264dev&layout=donut)](https://github.com/nico264dev/github-readme-stats)
 
+![Image](https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif)
 
 - 🔭 I’m currently working on: Alpine Cargo Website, Portfolio, Discord Bots
 - 💬 Ask me about anything
