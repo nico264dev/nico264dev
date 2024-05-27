@@ -6,6 +6,7 @@
 [![Discord Presence](https://lanyard.cnrad.dev/api/401649323655430144?idleMessage=No%20Infos%20for%20Activity%20atm)](https://discord.com/users/401649323655430144)
 
 ![nico's GitHub stats](https://github-readme-stats.vercel.app/api?username=nico264dev&show_icons=true&theme=dark)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nico264dev&layout=donut)](https://github.com/nico264dev/github-readme-stats)
 <!--
 **nico264dev/nico264dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
