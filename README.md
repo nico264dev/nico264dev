@@ -4,7 +4,7 @@
 > I am Nico. A skilled Bot and Web Developer. I am currently 19 Years old and I live near Cologne, Germany. I really do enjoy coding since I really like this.
 > I do hope you like my Github profile. If you do so then feel free to Follow me here.
 
-![ProfileViews](https://komarev.com/ghpvc/?username=nico264dev&color=red&style=flat&base=150&abbreviated=true&label=PROFILE+VIEWS)
+![ProfileViews](https://komarev.com/ghpvc/?username=nico264dev&color=red&style=flat&abbreviated=true&label=PROFILE+VIEWS)
 
 [![Discord Presence](https://lanyard.cnrad.dev/api/401649323655430144?idleMessage=No%20Infos%20for%20Activity%20atm)](https://discord.com/users/401649323655430144)
 
