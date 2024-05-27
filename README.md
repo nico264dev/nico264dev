@@ -1,4 +1,10 @@
 ## Hi there 👋
+## Welcome to my Github Profile
+
+![ProfileViews](https://komarev.com/ghpvc/?username=nico264dev&color=red&style=flat&base=150&abbreviated=true&label=PROFILE+VIEWS)
+
+[![Discord Presence](https://lanyard.cnrad.dev/api/401649323655430144?idleMessage=No%20Infos%20for%20Activity%20atm)](https://discord.com/users/401649323655430144)
+
 
 <!--
 **nico264dev/nico264dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
