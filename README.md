@@ -9,7 +9,7 @@
 [![Discord Presence](https://lanyard.cnrad.dev/api/401649323655430144?idleMessage=No%20Infos%20for%20Activity%20atm)](https://discord.com/users/401649323655430144)
 
 ![nico's GitHub stats](https://github-readme-stats.vercel.app/api?username=nico264dev&show_icons=true&theme=transparent)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nico264dev&layout=donut)](https://github.com/nico264dev/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nico264dev&layout=donut&theme=transparent)](https://github.com/nico264dev/github-readme-stats)
 
 <img src="https://user-images.githubusercontent.com/74038190/213910845-af37a709-8995-40d6-be59-724526e3c3d7.gif" width="900">
 <img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" style="width: 50%; height: 50%"> 
